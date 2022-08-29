@@ -1,5 +1,4 @@
-# One Word, Two Sides ⚖️:
-# Traces of Stance in Contextualized Word Representations
+# One Word, Two Sides ⚖️: Traces of Stance in Contextualized Word Representations
 
 This repository will contain data and code for the paper:
 
