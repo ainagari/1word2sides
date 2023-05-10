@@ -1,9 +1,12 @@
 
 # One Word, Two Sides ⚖️
 
-This repository contains data and code for the paper:
+This repository contains data and code for the papers:
 
 Aina Garí Soler, Matthieu Labeau and Chloé Clavel (2022). [One Word, Two Sides: Traces of Stance in Contextualized Word Representations](https://aclanthology.org/2022.coling-1.347/). Proceedings of the 29th International Conference on Computational Linguistics (COLING), Gyeongju, Korea, October 12-17
+
+Aina Garí Soler, Matthieu Labeau and Chloé Clavel (2023). Un mot, deux facettes : traces des opinions dans les représentations contextualisées des mots. Actes de la 30e Conférence sur le Traitement Automatique des Langues Naturelles (TALN), Paris, France, June 5-9
+
 
 (Disclaimer: please forgive redundancy, at earlier stages of the project it made sense to organize information a certain way, later on I built upon the already-written code and didn't have time to focus on improving that :))
 
